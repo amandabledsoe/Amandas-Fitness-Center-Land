@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Amanda's Fitness Center Land/1.0.0": {
+        "runtime": {
+          "Amanda's Fitness Center Land.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amanda's Fitness Center Land/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.exe
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.deps.json
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.runtimeconfig.json
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.runtimeconfig.dev.json
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.dll
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\bin\Debug\netcoreapp3.1\Amanda's Fitness Center Land.pdb
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.csprojAssemblyReference.cache
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.AssemblyInfoInputs.cache
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.AssemblyInfo.cs
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.csproj.CoreCompileInputs.cache
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.dll
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.pdb
+C:\Users\xando\OneDrive\Desktop\Amanda's Fitness Center Land\Amanda's Fitness Center Land\obj\Debug\netcoreapp3.1\Amanda's Fitness Center Land.genruntimeconfig.cache
